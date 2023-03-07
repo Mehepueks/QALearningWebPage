@@ -2,6 +2,31 @@ header {
     background-color: grey;
 }
 
+h1 {
+
+    margin-left: 30%;
+    margin-right: 30%;
+    position:relative
+}
+
+.navi {
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.headerbox {
+display: flex;
+flex-direction: row;
+gap: 5%;
+}
+
+.headerItem {
+    
+    justify-content: flex-start;
+    margin:2% 2% ;
+}
+
 footer {
     background-color: black;
     color: azure;
