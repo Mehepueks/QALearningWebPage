@@ -34,3 +34,27 @@ footer {
   width: 100%;
   height: 2.5rem;
 }
+
+/* Useful links 
+
+Configurations
+Tutorials */
+
+
+h2 {
+    margin: 4% 2% 1% 2%;
+
+    
+}
+
+.item-a {
+    margin: 1%
+    
+}
+          
+    
+    .wrapper {
+        display: flex;
+        justify-content: flex-start;
+        margin: 1%;
+      }
