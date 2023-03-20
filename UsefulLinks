@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QAHub</title>
+    <link rel="stylesheet" href="dist/style.css">
+</head>
+><header>
+    <nav>
+        <div class="container">
+        <h1>QAHub.io</h1>
+
+        <div class="menu"> 
+        
+          <a href="#" class="is-active">Home</a>
+          <a href="#">QA Courses</a>
+          <a href="Useful Links.html">Useful Links</a>
+          <a href="#">Code Knowledge</a>
+        </div>
+     
+        <button class="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+    </div>   
+
+    </nav>
+
+
+
+</header>
+<body>
+    <script src="js/main.js"></script>
+
+
+    <h2>Configurations</h2>
+    <div class="wrapper">
+
+
+        
+        <div class="item-a">
+             <iframe width="420" height="315" src="https://youtube.com/embed/dbzc9UbFZt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="item-a">
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/aydFCQiUW44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+        <div class="item-a  ">
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/uZ1yNWKd7zM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="item-a">
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/rSFraftR4I4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>        
+    </div>
+
+       <!--Tutorials--> 
+
+
+    <h2>Tutorials</h2>
+    <div class="wrapper">
+
+
+        
+        <div class="item-a">
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/lC0jzd8sGIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="item-a">
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/pgBk8HC7jbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+        <div class="item-a  ">
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/uZ1yNWKd7zM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="item-a">
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/8Dd7KRpKeaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>        
+    </div>
+
+
+    
+
+</body>
+|<footer>
+    <section Id="Footer";>
+        <small>Copyright QAHub.io 2023</small>
+</section>
+</footer>
+</html>
